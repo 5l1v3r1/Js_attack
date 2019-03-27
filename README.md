@@ -1,4 +1,4 @@
-js_attack - some .js can use with xss injector
+js_attack - some .JS with xss to attack
 ===================
 
 Usage example
