@@ -17,11 +17,6 @@ you can make a server to hand ip:
 ?>
 ```
 
-Author
-------
-
-Artem Kondratenko https://twitter.com/artkond
-
 
 Credit
 ------
