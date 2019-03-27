@@ -5,7 +5,7 @@ Usage example
 ------------------
 
 Get-Intranet-ip.js & Scan-Intranet-port.js: 
-you can make a server to accept ip nad port:
+you can make a server to accept ip and port:
 ```
 <?php
     date_default_timezone_set(PRC);
