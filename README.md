@@ -1,4 +1,4 @@
-js_attack - some .JS with xss to attack
+Js_attack - some .jS with xss to attack
 ===================
 
 Usage example
