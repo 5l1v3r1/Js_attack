@@ -1,4 +1,4 @@
-Js_attack - some .jS with xss to attack
+Js_attack - some .js with xss to attack
 ===================
 
 Usage example
@@ -23,5 +23,6 @@ Credit
 Repo is based on the following projects:
 
 - https://github.com/diafygi/webrtc-ips
+- https://github.com/DigitalInterruption/vulnerable-xss-app/tree/master/scripts
 
 
