@@ -4,8 +4,7 @@ js_attack - some .js can use with xss injector
 Usage example
 ------------------
 
-Get-Intranet-ip.js:
-Scan-Intranet-port.js:
+Get-Intranet-ip.js & Scan-Intranet-port.js:
 you can make a server to hand ip:
 ```
 <?php
