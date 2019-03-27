@@ -4,8 +4,8 @@ Js_attack - some .jS with xss to attack
 Usage example
 ------------------
 
-Get-Intranet-ip.js & Scan-Intranet-port.js:
-you can make a server to hand ip:
+Get-Intranet-ip.js & Scan-Intranet-port.js: 
+you can make a server to accept ip nad port:
 ```
 <?php
     date_default_timezone_set(PRC);
