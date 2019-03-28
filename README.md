@@ -1,5 +1,6 @@
 # Js_attack - some .js with xss to attack
-[![languages](https://img.shields.io/github/languages/top/imanfeng/Js_attack.svg)]
+
+![languages](https://img.shields.io/github/languages/top/imanfeng/Js_attack.svg)
 
 Usage example
 ------------------
